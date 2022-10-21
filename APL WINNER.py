@@ -18,3 +18,4 @@ if __name__ == '__main__':
     shuffle(teams_names)
     print(f"\033[91mСледующий победитель АПЛ - {teams_names[0]}")
     input()
+    print("helloworld")
